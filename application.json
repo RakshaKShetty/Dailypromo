@@ -28,6 +28,10 @@
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "Public.a",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
